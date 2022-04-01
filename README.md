@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 
 
 ## 📝 Portfolio Website - <a href="">Here</a>
-[![image](https://user-images.githubusercontent.com/40573259/153706944-9629da7f-6c01-4e9f-bef8-a1e61c6940ae.png)]()
 [![port](https://user-images.githubusercontent.com/15073430/161229009-291bd24e-f210-4d80-bf7b-d2d2ba715ad7.JPG)]()
